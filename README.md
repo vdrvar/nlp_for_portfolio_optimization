@@ -1,4 +1,4 @@
-# Sentiment-Driven Portfolio Optimization Project
+# Sentiment-Driven Portfolio Optimization Project (in progress)
 
 Welcome to the Sentiment-Driven Portfolio Optimization Project!
 
