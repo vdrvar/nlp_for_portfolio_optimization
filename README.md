@@ -26,7 +26,3 @@ Check out our findings and insights in the Results section, where we showcase th
 ## Contribution
 
 We welcome contributions and suggestions! If you have ideas for improvement or would like to collaborate, feel free to open an issue or submit a pull request.
-
-## License
-
-This project is licensed under the MIT License.
